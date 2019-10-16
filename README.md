@@ -6,4 +6,4 @@ Links to understand IOT Hub Cosmos-DB and create a Cosmos-DB Rsource
 - https://azure.microsoft.com/en-in/solutions/architecture/iot-using-cosmos-db/
 
 - https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-python
-
+  The python files written here are referenced from the above link. use the above link to create a new database resource and to use the     connection strings
